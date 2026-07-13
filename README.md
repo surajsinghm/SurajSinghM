@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SurajSinghM&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=SurajSinghM&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)
 <!---
 SurajSinghM/SurajSinghM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

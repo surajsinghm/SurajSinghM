@@ -1,6 +1,5 @@
 
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SurajSinghM&rank_icon=percentile&theme=dark)](https://github-stats-extended.vercel.app/api?username=SurajSinghM&rank_icon=percentile&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=surajsinghm&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=surajsinghm&include_all_commits=true&theme=dark)
 
 
 <!---
